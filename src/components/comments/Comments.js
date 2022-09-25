@@ -1,6 +1,6 @@
 import { useState, useEffect, useCallback } from 'react';
 import { useParams } from 'react-router-dom';
-
+import React from "react";
 import classes from './Comments.module.css';
 import NewCommentForm from './NewCommentForm';
 import useHttp from '../../hooks/use-http';

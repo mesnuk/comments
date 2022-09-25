@@ -1,6 +1,6 @@
 import { Fragment, useEffect } from 'react';
 import { useParams, Route, Link, useRouteMatch } from 'react-router-dom';
-
+import React from "react";
 import HighlightedQuote from '../components/quotes/HighlightedQuote';
 import Comments from '../components/comments/Comments';
 import useHttp from '../hooks/use-http';
