@@ -43,5 +43,6 @@
   "main": "index.js",
   "author": "mesnuk",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "homepage": "https://mesnuk.github.io/comments"
 }
